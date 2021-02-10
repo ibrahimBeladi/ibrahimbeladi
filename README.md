@@ -39,3 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimbeladi&show_icons=true&locale=en" alt="ibrahimbeladi" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimbeladi&" alt="ibrahimbeladi" /></p>
